@@ -1,0 +1,12 @@
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe.config
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.exe
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.pdb
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\bin\Debug\AverageUnitsShipped.xml
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbprojAssemblyReference.cache
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.frmAverageUnitsShipped.resources
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.Resources.resources
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.GenerateResource.cache
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.vbproj.CoreCompileInputs.cache
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.exe
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.xml
+C:\Users\Harry\Desktop\NETD\Projects\AverageUnitsShipped\AverageUnitsShipped\obj\Debug\AverageUnitsShipped.pdb
